@@ -129,11 +129,10 @@ credit-risk-model-main/
 ## Author
 
 - **Name:** Your Name
-- **LinkedIn:** https://www.linkedin.com/in/your-profile
-- **Contact:** your.email@example.com
+- **LinkedIn:** https://www.linkedin.com/in/bethelhem-degsew
+- **Contact:** Bethydegsew@gmail.com
 
 ## Submission Links
 
-- **Technical report:** `docs/technical_report.md` (export to PDF for final
-  submission if required)
-- **GitHub repository:** https://github.com/username/project
+- **Technical report:** `docs/technical_report.md` 
+- **GitHub repository:** https://github.com/Bethy-de/credit-risk-model

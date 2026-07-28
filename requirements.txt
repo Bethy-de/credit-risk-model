@@ -3,11 +3,11 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-jupyter
-mlflow
 fastapi
-uvicorn
+uvicorn[standard]
 pytest
 flake8
+requests
 xgboost
-xverse
+shap
+streamlit

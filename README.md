@@ -128,7 +128,7 @@ credit-risk-model-main/
 
 ## Author
 
-- **Name:** Your Name
+- **Name:** Bethelhem Degsew
 - **LinkedIn:** https://www.linkedin.com/in/bethelhem-degsew
 - **Contact:** Bethydegsew@gmail.com
 
